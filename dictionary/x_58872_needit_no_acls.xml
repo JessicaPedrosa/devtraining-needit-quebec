@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="No ACLs" max_length="40" name="x_58872_needit_no_acls" sizeclass="12" type="collection">
+        <element label="teste" max_length="40" name="teste" type="string"/>
+        <element label="teste 2" max_length="40" name="teste_2" type="string"/>
+    </element>
+</database>
